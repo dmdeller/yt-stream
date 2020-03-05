@@ -7,7 +7,7 @@ Takes a YouTube video ID, returns a YouTube `.m3u8` streaming URL.
 I want to listen to YouTube-based radio stations like [this][1] and [this][2] in a [radio app][3] instead of the YouTube app/web site.
 
 [1]: https://www.youtube.com/watch?v=5qap5aO4i9A
-[2]: https://www.youtube.com/watch?v=
+[2]: https://www.youtube.com/watch?v=DWcJFNfaw9c
 [3]: https://triode.app
 
 # How
