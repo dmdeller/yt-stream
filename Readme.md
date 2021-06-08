@@ -32,4 +32,4 @@ As a result, this will probably only work if your radio client is behind the sam
 
 # Run
 
-    node index.js
+    npm start
