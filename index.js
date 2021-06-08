@@ -41,4 +41,4 @@ app.get('/stream', async (request, response) => {
   await sendToStream(videoID, response)
 })
 
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+app.listen(port, () => console.log(`yt-stream listening on port ${port}!`))
