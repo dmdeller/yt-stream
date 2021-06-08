@@ -15,6 +15,7 @@ async function sendToStream(videoID, response) {
   
   if (!!streamURL) {
     response.redirect(302, streamURL)
+    console.log("Redirected video ID", videoID, "to URL", streamURL)
     
   } else {
     console.log("Could not find stream URL in data:", info)
